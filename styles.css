@@ -64,6 +64,10 @@ body {
 }
 
 .location {
+    font-family: 'Redaction35', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    color: black;
     padding-bottom: 20px;
 }
 
