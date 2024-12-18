@@ -55,14 +55,19 @@ body {
     font-family: 'Redaction35', sans-serif;
 }
 
-.work-categories,
-.location {
+.work-categories {
     font-family: 'Redaction35', sans-serif;
     font-size: 18px;
     font-weight: 400;
     color: black;
+    
+}
+
+.location {
     padding-bottom: 20px;
 }
+
+
 
 .gifs {
     display: flex;
