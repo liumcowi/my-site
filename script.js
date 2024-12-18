@@ -2,7 +2,7 @@ document.addEventListener('DOMContentLoaded', function() {
     const gallery = document.querySelector('.gallery');
     const imageFolder = './images/'; // Path to your images folder
     const videoFolder = './videos/'; // Path to your videos folder
-    const totalImages = 29; // Manually set the total number of images
+    const totalImages = 27; // Manually set the total number of images
     const imageExtension = 'webp'; // Change this if using a different image format
     const totalVideos = 1; // Set the total number of WebM videos
 
